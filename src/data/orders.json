@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1759230233072",
+    "firstName": "sgfbhh",
+    "lastName": "jhbjhvj",
+    "address": "kjndsvkjsbdkjvbsf",
+    "items": [
+      {
+        "image": "../data/images",
+        "name": "Portable Charger",
+        "description": "10000mAh power bank with fast charging and compact design.",
+        "price": 29.99,
+        "quantity": 1
+      },
+      {
+        "image": "../data/shopping (1).webp",
+        "name": "Bluetooth Speaker",
+        "description": "Portable speaker with deep bass, 15-hour playtime, and waterproof build.",
+        "price": 59.99,
+        "quantity": 1
+      },
+      {
+        "image": "../data/61kZERVCs7L.jpg",
+        "name": "Gaming Keyboard",
+        "description": "Mechanical keyboard with RGB lighting and programmable keys.",
+        "price": 79.99,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 169.97,
+    "status": "placed",
+    "createdAt": "2025-09-30T11:03:53.072Z"
+  },
+  {
+    "id": "1759235563502",
+    "firstName": "jhbchjsvcsf",
+    "lastName": "vsdjcsv",
+    "address": "edvbwhvrbfv",
+    "items": [
+      {
+        "image": "../data/shopping.webp",
+        "name": "Smartwatch",
+        "description": "Fitness tracker with heart rate monitor, GPS, and water-resistant design.",
+        "price": 149.99,
+        "quantity": 4
+      }
+    ],
+    "totalAmount": 599.96,
+    "status": "placed",
+    "createdAt": "2025-09-30T12:32:43.503Z"
+  }
+]

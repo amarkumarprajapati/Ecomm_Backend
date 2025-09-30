@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "image": "../data/1_a43c5e0b-3a47-497d-acec-b4764259b10e_1024x1024.webp",
+      "name": "Wireless Headphones",
+      "description": "High-quality over-ear wireless headphones with noise cancellation and 20-hour battery life.",
+      "price": 99.99
+    },
+    {
+      "image": "../data/shopping.webp",
+      "name": "Smartwatch",
+      "description": "Fitness tracker with heart rate monitor, GPS, and water-resistant design.",
+      "price": 149.99
+    },
+    {
+      "image": "../data/images.jpg",
+      "name": "Portable Charger",
+      "description": "10000mAh power bank with fast charging and compact design.",
+      "price": 29.99
+    },
+    {
+      "image": "../data/shopping (1).webp",
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with deep bass, 15-hour playtime, and waterproof build.",
+      "price": 59.99
+    },
+    {
+      "image": "../data/shopping (2).webp",
+      "name": "Laptop Stand",
+      "description": "Adjustable aluminum laptop stand for ergonomic viewing and improved airflow.",
+      "price": 34.99
+    },
+    {
+      "image": "../data/shopping (3).webp",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with customizable buttons and long battery life.",
+      "price": 24.99
+    },
+    {
+      "image": "../data/images.jpg",
+      "name": "USB-C Hub",
+      "description": "Multi-port USB-C adapter with HDMI, USB 3.0, and SD card reader.",
+      "price": 39.99
+    },
+    {
+      "image": "../data/61kZERVCs7L.jpg",
+      "name": "Gaming Keyboard",
+      "description": "Mechanical keyboard with RGB lighting and programmable keys.",
+      "price": 79.99
+    },
+    {
+      "image": "../data/buds-t110-wireless-stereo-earbuds-13mm-drivers-38h-battery-clear-original-imahc8vdagdsxthw.webp",
+      "name": "Wireless Earbuds",
+      "description": "True wireless earbuds with touch controls and 8-hour battery life per charge.",
+      "price": 49.99
+    },
+    {
+      "image": "../data/shopping (4).webp",
+      "name": "External SSD",
+      "description": "1TB portable SSD with high-speed USB-C connection and durable design.",
+      "price": 129.99
+    }
+  ]
+}
